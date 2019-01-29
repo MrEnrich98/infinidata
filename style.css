@@ -1,0 +1,285 @@
+
+
+body {
+    display: flex;
+    flex-direction: column;
+    background-color: #051223;
+    background-image: url(..//data_visualization/img/bg_1.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 100%;
+    padding: 10px 50px 100px 50px;
+    margin: 0px;
+    font-family: 'Montserrat';    
+    height: 100%;
+    
+
+}
+
+
+
+
+
+
+.title {
+    color: #3BBBBE;
+    text-align: center;
+    letter-spacing: 20px;
+}
+
+
+
+
+#first {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 100vh;
+    align-items: center;
+    margin-top: -100px;
+    
+    
+    
+}
+
+
+
+#header {
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    max-width: 500px;    
+
+    
+
+}
+
+
+
+h1 {
+    font-size: 40px;
+    color: #6C63FF;
+    
+    padding-top: 30px;
+    margin: 0%;
+    
+   
+    
+}
+
+h2 {
+    font-size: 20px;
+    padding-top: 30px;
+    color: rgb(255, 255, 255);
+    line-height: 30px;
+    
+}
+
+
+
+
+
+
+
+
+.input-group .mb-3 .Chiarlitti {
+    display: flex;
+}
+
+
+
+.space {
+   
+    padding-top: 40px;
+
+}
+
+.btn-outline-secondary {
+    background-color: #6C63FF ; 
+    min-height: 38px;
+    border: none;
+    color: white;
+    transition: .8s;
+
+}
+
+.btn-outline-secondary:hover{
+    background-color: #3F3D56;
+    
+}
+
+.btn .btn-outline-secondary .dropdown-toggle:active{
+    background-color: #3BBBBE !important;
+    border: none;
+}
+
+.dropdown-toggle-citta {
+    margin-left: 20px;
+    background-color: #6C63FF;
+    min-height: 38px;
+    border: none;
+    transition: .8s;
+
+}
+
+.dropdown-toggle-citta:hover {
+    background-color: #3F3D56;
+
+}
+
+
+.left{
+    display: flex;
+    flex-direction: row;
+    flex-grow: 1;
+
+}
+
+#myChart {
+    display: flex !important;
+    align-self: center;
+    padding-left: 30px;
+    max-width: 600px;
+    align-items: center;
+}
+
+
+
+#second{
+    margin-top: 150px;
+   
+}
+
+#second h1 {
+    text-align: center;
+    color: rgb(45, 211, 189);
+}
+
+#card_value {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 60px;
+    
+
+}
+
+.card {
+    display: flex;
+    border-radius: 10px;
+    border: none;
+    box-shadow: rgba(0, 0, 0, 0.349) 0px 30px 50px;
+    transition: all 0.8s cubic-bezier(0.2, 0.8, 0.2, 1) 0s;
+   
+    background-color: #051223;
+    
+    
+}
+
+
+.card a{
+    text-decoration: none;
+}
+
+
+
+.card:hover{
+    transform: translateY(-10px);
+    box-shadow: rgba(0, 0, 0, 0.360) 0px 30px 60px;
+    background-color: #040b16;
+
+}
+
+.card img {
+    display: flex;
+
+}
+
+.card h5 {
+    text-align: center;
+    color: #3BBBBE;
+    padding-top: 30px;
+}
+
+.card-body  {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+
+footer{
+    text-align: center;
+    padding-top: 100px;
+    color: #3BBBBE;
+    bottom: 0;
+}
+
+
+@media only screen and (max-width: 420px) {
+
+
+    body{
+        padding: 20px 30px;                                  
+
+
+
+    }
+
+    #first {
+        flex-direction: column;
+        height: auto;
+        margin-top: auto;
+
+
+    }
+
+    
+    .title {
+        font-size: 25px;
+        letter-spacing: 10px;
+
+    }
+
+    #header {
+        align-items: unset;
+    }
+
+    h1 {
+        text-align: center;
+        font-size: 24px;
+        
+    }
+
+    h2{
+        text-align: center;
+        font-size: 18px;
+
+        
+    }
+
+    #myChart{
+        padding-left: 0px;
+        margin-top: 40px;
+    }
+    
+    #second {
+        margin-top: 20px;
+    }
+
+    #card_value {
+        flex-direction: column;
+        align-items: center;
+        
+    }
+
+    .space{
+        flex-direction: row;
+        justify-content: center;
+    }
+
+}

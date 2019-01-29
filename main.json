@@ -1,0 +1,230 @@
+{
+    "2004": {
+        "citta": [
+            {
+                "Torino": "7,7",
+                "Genova": "4,9",
+                "Milano": "4,9",
+                "Verona": "4,0",
+                "Venezia": "5,7",
+                "Bologna": "2,9",
+                "Firenze": "5,9",
+                "Roma": "7,1",
+                "Napoli": "19,7",
+                "Bari": "15,1",
+                "Palermo": "19,0",
+                "Messina": "17,4",
+                "Catania": "12,9"
+            }
+        ]
+    },
+    "2005": {
+        "citta": [
+            {
+                "Torino": "5,7",
+                "Genova": "5,8",
+                "Milano": "4,7",
+                "Verona": "5,1",
+                "Venezia": "3,3",
+                "Bologna": "2,6",
+                "Firenze": "4,1",
+                "Roma": "7,2",
+                "Napoli": "16,8",
+                "Bari": "15,9",
+                "Palermo": "19,7",
+                "Messina": "13,0",
+                "Catania": "15,1"
+            }
+        ]
+    },
+    "2006": {
+        "citta": [
+            {
+                "Torino": "4,8",
+                "Genova": "5,2",
+                "Milano": "4,0",
+                "Verona": "4,9",
+                "Venezia": "4,7",
+                "Bologna": "2,9",
+                "Firenze": "5,1",
+                "Roma": "6,8",
+                "Napoli": "14,0",
+                "Bari": "13,8",
+                "Palermo": "19,0",
+                "Messina": "9,2",
+                "Catania": "14,7"
+            }
+        ]
+    },
+    "2007": {
+        "citta": [
+            {
+                "Torino": "5,0",
+                "Genova": "4,5",
+                "Milano": "3,8",
+                "Verona": "4,2",
+                "Venezia": "1,9",
+                "Bologna": "2,3",
+                "Firenze": "3,2",
+                "Roma": "5,1",
+                "Napoli": "11,1",
+                "Bari": "10,4",
+                "Palermo": "15,2",
+                "Messina": "12,3",
+                "Catania": "13,7"
+            }
+        ]
+    },
+    "2008": {
+        "citta": [
+            {
+                "Torino": "6,3",
+                "Genova": "5,6",
+                "Milano": "4,1",
+                "Verona": "5,2",
+                "Venezia": "4,8",
+                "Bologna": "2,0",
+                "Firenze": "5,8",
+                "Roma": "6,5",
+                "Napoli": "12,3",
+                "Bari": "9,7",
+                "Palermo": "14,8",
+                "Messina": "15,0",
+                "Catania": "17,0"
+            }
+        ]
+    },
+    "2009": {
+        "citta": [
+            {
+                "Torino": "9,5",
+                "Genova": "5,7",
+                "Milano": "6,0",
+                "Verona": "4,8",
+                "Venezia": "3,8",
+                "Bologna": "2,1",
+                "Firenze": "5,5",
+                "Roma": "7,1",
+                "Napoli": "11,5",
+                "Bari": "11,0",
+                "Palermo": "14,9",
+                "Messina": "15,8",
+                "Catania": "16,0"
+            }
+        ]
+    },
+    "2010": {
+        "citta": [
+            {
+                "Torino": "10,6",
+                "Genova": "7,3",
+                "Milano": "5,7",
+                "Verona": "4,4",
+                "Venezia": "6,6",
+                "Bologna": "4,0",
+                "Firenze": "5,2",
+                "Roma": "7,8",
+                "Napoli": "13,9",
+                "Bari": "13,8",
+                "Palermo": "16,2",
+                "Messina": "14,8",
+                "Catania": "15,2"
+            }
+        ]
+    },
+    "2011": {
+        "citta": [
+            {
+                "Torino": "10,9",
+                "Genova": "7,7",
+                "Milano": "5,1",
+                "Verona": "4,9",
+                "Venezia": "5,7",
+                "Bologna": "3,8",
+                "Firenze": "6,2",
+                "Roma": "7,8",
+                "Napoli": "19,6",
+                "Bari": "11,5",
+                "Palermo": "14,1",
+                "Messina": "18,7",
+                "Catania": "18,1"
+            }
+        ]
+    },
+    "2012": {
+        "citta": [
+            {
+                "Torino": "12,6",
+                "Genova": "8,3",
+                "Milano": "6,9",
+                "Verona": "4,9",
+                "Venezia": "9,1",
+                "Bologna": "6,8",
+                "Firenze": "8,7",
+                "Roma": "8,8",
+                "Napoli": "25,1",
+                "Bari": "15,1",
+                "Palermo": "16,8",
+                "Messina": "21,8",
+                "Catania": "20,4"
+            }
+        ]
+    },
+    "2013": {
+        "citta": [
+            {
+                "Torino": "13,7",
+                "Genova": "10,4",
+                "Milano": "6,4",
+                "Verona": "7,6",
+                "Venezia": "8,2",
+                "Bologna": "8,8",
+                "Firenze": "9,8",
+                "Roma": "9,6",
+                "Napoli": "26,8",
+                "Bari": "15,3",
+                "Palermo": "18,3",
+                "Messina": "24,9",
+                "Catania": "25,9"
+            }
+        ]
+    },
+    "2014": {
+        "citta": [
+            {
+                "Torino": "12,8",
+                "Genova": "11,9",
+                "Milano": "8,1",
+                "Verona": "6,6",
+                "Venezia": "9,8",
+                "Bologna": "7,5",
+                "Firenze": "8,7",
+                "Roma": "9,5",
+                "Napoli": "27,0",
+                "Bari": "13,8",
+                "Palermo": "18,3",
+                "Messina": "30,0",
+                "Catania": "24,6"
+            }
+        ]
+    },
+    "2015": {
+        "citta": [
+            {
+                "Torino": "12,3",
+                "Genova": "9,2",
+                "Milano": "7,2",
+                "Verona": "6,8",
+                "Venezia": "6,9",
+                "Bologna": "7,5",
+                "Firenze": "9,5",
+                "Roma": "9,2",
+                "Napoli": "24,8",
+                "Bari": "12,8",
+                "Palermo": "20,4",
+                "Messina": "32,1",
+                "Catania": "24,5"
+            }
+        ]
+    }
+}
